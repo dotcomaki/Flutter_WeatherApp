@@ -15,7 +15,7 @@ Before you can run this project, you will need the following:
 
 - Flutter SDK
 - Dart SDK
-- An IDE (like Android Studio or VS Code) with Flutter plugin installed
+- An IDE (like Visual Studio Code) with Flutter plugin installed
 
 You can download Flutter SDK from [here](https://flutter.dev/docs/get-started/install) and Dart SDK is bundled with it. Follow the instructions on the Flutter website to install and setup your IDE.
 
