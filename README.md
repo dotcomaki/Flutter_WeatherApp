@@ -18,22 +18,22 @@ You can download Flutter SDK from [here](https://flutter.dev/docs/get-started/in
 
 ### Installing
 
-Clone the repository:
-`sh
+1. Clone the repository:
+    ```sh
     git clone https://github.com/dotcomaki/Flutter_WeatherApp
-    `
-Change to project directory:
-`sh
+    ```
+2. Change to project directory:
+    ```sh
     cd FlutterWeatherApp
-    `
-Install dependencies:
-`sh
+    ```
+3. Install dependencies:
+    ```sh
     flutter pub get
-    `
-Launch the application on your local machine:
-`sh
+    ```
+4. Launch the application on your local machine:
+    ```sh
     flutter run
-    `
+    ```
 
 ## Running the tests
 
