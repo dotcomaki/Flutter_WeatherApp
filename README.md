@@ -10,35 +10,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 Before you can run this project, you will need the following:
 
--   Flutter SDK
--   Dart SDK
--   An IDE (like Android Studio or VS Code) with Flutter plugin installed
+- Flutter SDK
+- Dart SDK
+- An IDE (like Android Studio or VS Code) with Flutter plugin installed
 
 You can download Flutter SDK from [here](https://flutter.dev/docs/get-started/install) and Dart SDK is bundled with it. Follow the instructions on the Flutter website to install and setup your IDE.
 
 ### Installing
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/dotcomaki/Flutter_WeatherApp
-    ```
-2. Change to project directory:
-    ```sh
-    cd FlutterWeatherApp
-    ```
-3. Install dependencies:
-    ```sh
-    flutter pub get
-    ```
-4. Launch the application on your local machine:
-    ```sh
-    flutter run
-    ```
+1. Clone this repository
+2. Open the project with your IDE
+3. Get the packages by running `flutter pub get` in the terminal
+4. Run the app using `flutter run`
 
 ## Running the tests
 
 To run the tests in this project, use the following command in the terminal:
-
 ```
 flutter test
 ```
@@ -46,7 +33,6 @@ flutter test
 ## Deployment
 
 To build an APK for deployment, use the following command:
-
 ```
 flutter build apk
 ```
@@ -55,5 +41,5 @@ This will generate an APK file in the `build/app/outputs/flutter-apk/` directory
 
 ## Built With
 
--   [Flutter](https://flutter.dev/) - The UI framework used
--   [Dart](https://dart.dev/) - The language used
+- [Flutter](https://flutter.dev/) - The UI framework used
+- [Dart](https://dart.dev/) - The language used
