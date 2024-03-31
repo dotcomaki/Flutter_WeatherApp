@@ -2,6 +2,9 @@
 
 This is a minimalistic Flutter app that shows the weather in your location.
 
+![alt text](https://www.github.com/dotcomaki/Flutter_WeatherApp/app_screenshot.png)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
