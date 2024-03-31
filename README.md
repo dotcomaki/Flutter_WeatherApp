@@ -24,7 +24,7 @@ You can download Flutter SDK from [here](https://flutter.dev/docs/get-started/in
 1. Clone this repository
 2. Open the project with your IDE
 3. Get the packages by running `flutter pub get` in the terminal
-4. Insert your API key in /lib/pages/weatherpage.dart
+4. Insert your OpenWeatherMap API key in /lib/pages/weatherpage.dart
 5. Run the app using `flutter run`
 
 ## Running the tests
